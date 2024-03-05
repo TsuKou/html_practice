@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.main-visual-name {
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.webcamp {
+  padding-bottom: 30px;
+  border-bottom: solid 1px black;
+  margin-bottom: 30px;
+}
+.webcamp pro {
+  padding-bottom: 30px;
+  border-bottom: solid 1px black;
+  margin-bottom: 30px;
+}
+.webcamp webdesign {
+  padding-bottom: 30px;
+  border-bottom: solid 1px black;
+  margin-bottom: 30px;
+}
+.webcamp career {
+  padding-bottom: 30px;
+  border-bottom: solid 1px black;
+}
